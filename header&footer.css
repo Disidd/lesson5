@@ -1,0 +1,18 @@
+
+.header {
+    text-align: center;
+    word-spacing: 100px;
+    margin-top: 30px;
+}
+
+#image {
+    width: 100px;
+    float: left;
+}
+
+.footer {
+    background: #665;
+    color: #fff;
+    font-size: 70%;
+    padding: 5px; clear : both;
+    }
