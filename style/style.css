@@ -1,9 +1,8 @@
-
-.h1{
+.title {
     text-align: center;
 }
 
-.h2 {
+.second-head {
     text-align: left;
     margin-top: 50px;
 }
@@ -16,11 +15,13 @@
     display: inline-block;
     width: 35%;
     margin-left: 70px;
+    vertical-align: top;
 }
 
 .img3 {
     display: inline-block;
     width: 40%;
+    vertical-align: top;
 }
 
 .aside {
@@ -29,19 +30,19 @@
     vertical-align: top;
 }
 
-.div{
+.content {
     display: inline-block;
     width: 50%;
     font-size: large;
-    box-sizing: border-box;
     margin-left: 70px;
+    vertical-align: top;
 }
 
 .div1 {
     display: inline-block;
     width: 70%;
     font-size: large;
-    box-sizing: border-box;
+    vertical-align: top;
 }
 
 .section {
@@ -51,9 +52,10 @@
     margin: 0px;
 }
 
-.imgaside {
+.img-aside {
     display: inline-block;
     width: 85%;
+    vertical-align: top;
 }
 
 .aside {
@@ -71,18 +73,20 @@
     background-color: #f0f0f0;
 }
 
-.UL {
+.list {
     list-style-type: none;
 }
 
- .imgprice {
+ .img-price {
     display:inline-block;
     width: 90%;
     padding-left: 20px;
+    vertical-align: top;
  }
 
- .imghistory{
+ .img-history {
     display:inline-block;
     width: 70%;
     margin-left: 50px;
+    vertical-align: top;
  }
